@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rizereze123. My full name is Dhimaz Purnama Adjhi
+- 👋 Hi, I’m @rizereze123. My real name is Dhimaz Purnama Adjhi
 - 📫 Based on Universitas Pendidikan Indonesia, Computer Engineering
-- 👀 I’m interested in IoT & Mechatronics Programming, Front End Web Dev
-- 🌱 I’m currently learning Internet of Things & Mechatronics Stuff
+- 👀 I’m interested in IoT & Mechatronics Programming, Front End Web Dev, and Network Computer
+- 🌱 I’m currently learning DevOps Stuff
